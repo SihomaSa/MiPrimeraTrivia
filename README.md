@@ -1,0 +1,2 @@
+# MiPrimeraTrivia
+Repositorio para SSOC
